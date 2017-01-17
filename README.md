@@ -1,0 +1,1 @@
+# drools-rule-git-project-test
