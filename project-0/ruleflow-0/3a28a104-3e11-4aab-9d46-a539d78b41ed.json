@@ -1,0 +1,11 @@
+{
+  "id" : "3a28a104-3e11-4aab-9d46-a539d78b41ed",
+  "name" : "New Rule",
+  "description" : "This is a new rule",
+  "ruleflowGroup" : "ruleflow-0",
+  "conditions" : [ ],
+  "consequence" : {
+    "id" : "64ec31a9-77b3-4e11-b304-e271bc07147d",
+    "terms" : [ ]
+  }
+}
